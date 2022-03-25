@@ -119,6 +119,11 @@
         color: white;
     }
     
+    .precios {
+        text-align: center;
+        font-size: 35px;
+    }
+    
     @media (max-width: 768px) {
         header label {
             display: block;
